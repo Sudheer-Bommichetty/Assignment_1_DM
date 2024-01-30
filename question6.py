@@ -17,4 +17,4 @@ def question6_3():
         'equal_width': ['Change', 2],
         'equal_frequency': ['No Change', 9]
     } 
-    return answe
+    return answer
